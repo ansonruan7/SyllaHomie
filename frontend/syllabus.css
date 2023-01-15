@@ -9,6 +9,19 @@ body{
     overflow: hidden;
     margin-bottom: 40px;
 }
+#google{
+  float:right;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 13px;
+  font-family: "Inter", Sans-serif;
+}
+#logo{
+  width: 15px;
+  height: 15px;
+}
 
 /*Change aspects of text*/
 .topnav a {
